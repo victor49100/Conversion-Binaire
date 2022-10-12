@@ -60,5 +60,6 @@ def striped(n):
     after = splited[1]
     after = int(after)
     return(after,before)
-
+print ("##Debut test")
 print (nombreVirgule(1478.8125))
+print ("##Fin test")
